@@ -2,12 +2,12 @@
 
 This repository contains the machine learning experiments for **Scrubaroo**, a Web3 application that combines deep learning and Sui Blockchain to incentivize citizens for environmental cleanup actions.
 
-- # Live App: https://scrubaroo.vercel.app/
-- # ML API: https://itsmepanoik-scrubaroo-api.hf.space
-- # GitHub: https://github.com/panoik12/Scrubaroo
-- # GitHub (ML Code):** https://github.com/panoik12/Scrubaroo_ML_Models
+- Live App: https://scrubaroo.vercel.app/
+- ML API: https://itsmepanoik-scrubaroo-api.hf.space
+- GitHub: https://github.com/panoik12/Scrubaroo
+- GitHub (ML Code):** https://github.com/panoik12/Scrubaroo_ML_Models
   
-- **Paper:** Scrubaroo: AI-Powered Waste Detection and 
+- Paper: Scrubaroo: AI-Powered Waste Detection and 
   Blockchain-Based Citizen Reward System, SETN 2026
   
 ## Overview
