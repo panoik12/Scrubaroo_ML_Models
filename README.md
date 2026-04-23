@@ -2,7 +2,7 @@
 
 This repository contains the machine learning experiments for **Scrubaroo**, a Web3 application that combines deep learning and Sui Blockchain to incentivize citizens for environmental cleanup actions.
 
-- **Backend:** https://github.com/panoik12/Railway-App
+- **Backend:** https://itsmepanoik-scrubaroo-api.hf.space
 - **Paper:** Scrubaroo: AI-Powered Waste Detection and Blockchain-Based Citizen Reward System, SETN 2026
 - **Live App:** https://scrubaroo.vercel.app/
   
